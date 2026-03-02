@@ -1,0 +1,11 @@
+# name = input("enter you name: ")
+# print("my name is :", name)
+# age = input("enter your age: ")
+# print("my age is:", age)
+
+name = input("enter your name: ")
+age = int(input("enter your age: "))
+marks = int(input("enter your marks:"))
+print("my name is", name)
+print("i'm", age, "year old")
+print(marks)
