@@ -37,12 +37,12 @@
 
 # # converter(doller)
 
-# def check_even_odd(number):
-#     if number % 2 == 0:
-#         print   ("This is an Even Number")
-#     else:
-#         print("This is a Odd number")
+def check_even_odd(number):
+    if number % 2 == 0:
+        print   ("This is an Even Number")
+    else:
+        print("This is a Odd number")
 
-# num = int(input("Enter a Number:"))
-# check_even_odd(num)
+num = int(input("Enter a Number:"))
+check_even_odd(num)
 
